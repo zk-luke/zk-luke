@@ -45,7 +45,7 @@
   - BAF mining pool management system development, mining pool tool development.
   - Jamob Polkadot decentralized platform development.
 
-- 2022 - now IfDAO as co-founder
+- 2022 - now If(DAO){ as co-founder
   - research and develop Zero-knowledge proof system.
   - research and develop Multi-Party Computation system.
   - Construction of Minaclub Mina mining pool (Block Producer and Snarker) node.
