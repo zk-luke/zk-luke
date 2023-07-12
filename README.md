@@ -1,5 +1,5 @@
-- 👋 Hi, I’m anony
-- 👀 I’m interested in MPC & ZKP
+- 👋 Hi, I’m Yu
+- 👀 Focus on MPC & ZKP
 - 🌱 I’m currently working for [zkpass](https://github.com/zkPassOfficial)
 
 ### Profile
