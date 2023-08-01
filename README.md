@@ -5,4 +5,4 @@
 ### Profile
 - Good at math and cryptography.
 - Deeply engaged in blockchain.
-- Have in-deep research in zero-knowledge and multi-party computation. 
+- Have in-deep research in zero-knowledge proof and multi-party computation. 
