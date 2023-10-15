@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Luke yu from [zkpass](https://github.com/zkPassOfficial), zero kownledge engineer.
+- 👋 Hi, I'm Luke Yu from [zkpass](https://github.com/zkPassOfficial), zero kownledge engineer.
 
 ### Profile
 - Zero Kownledge Engineer.
