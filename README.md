@@ -1,16 +1,26 @@
-- 👋 Hi, I'm Luke Yu, zkTLS & MPC R & D engineer.
+- 👋 Hi, I'm Moz, zkTLS & MPC R & D engineer.
 
-> Highly skilled Web3 R&D Engineer with extensive expertise in zero-knowledge proofs (ZKP), multi-party computation (MPC), and blockchain technologies. Proficient in zkTLS, SoftSpoken, VOLE-based ZK, QuickSilver, Snark, Groth16, and MPC protocols such as OT, IKNP, SilentOT, Yao, and HalfGate. Adept at developing secure, scalable, and efficient decentralized systems using Go, Node.js, Rust, and Solidity. Strong foundation in mathematics and cryptography, with a proven ability to design and implement cutting-edge solutions for Web3 applications.
+**Senior Web3 R&D Engineer**  
+Specializing in **zero-knowledge proofs (ZKP)**, **multi-party computation (MPC)**, and advanced privacy-preserving blockchain technologies.
 
-### Professional Experience
-- Designed and implemented zkTLS-based solutions to enable secure, privacy-preserving data sharing for decentralized applications.
-- Developed and optimized VOLEitH-based zero-knowledge proof systems.
-- Built MPC protocols leveraging OT, IKNP, SilentOT, and HalfGate, ensuring secure computation for Web3 platforms.
-- Engineered privacy-focused protocols using Snark and Groth16, enabling efficient zero-knowledge proof generation for blockchain applications. 
+Deep expertise in designing and implementing high-performance cryptographic protocols for decentralized systems.
 
-### Skills
-- Languages/Frameworks: Go, Node.js, Rust, Solidity, JavaScript.
-- ZKP Technologies: zkTLS, VOLE-based ZK, QuickSilver, Snark, Groth16.
-- MPC Protocols: OT, IKNP, SilentOT, SoftSpoken, Yao, HalfGate.
-- Blockchain Platforms: Ethereum, EVM-compatible chains, Layer 2 solutions.
-- Other: Cryptographic protocol design, secure system architecture, performance optimization.
+### Core Competencies
+- **Zero-Knowledge Proof Systems**  
+  zkTLS · VOLE-in-the-head · QuickSilver · SoftSpoken · Groth16 · SNARKs (Plonk, Marlin, etc.) · zk-SNARK optimization
+
+- **Multi-Party Computation**  
+  OT variants (IKNP, SilentOT, VOLE) · Yao's Garbled Circuits · HalfGate · SoftSpoken protocol family
+
+- **Development Stack**  
+  **Rust** · **Go** · **Solidity** · **Node.js** · Circom · Halo2 · arkworks · emp-toolkit
+
+### Professional Highlights
+- Architected production-grade **zkTLS** solutions enabling secure, selective disclosure of Web2 data on-chain
+- Designed and optimized **VOLE-based** ZK proof systems for improved proving speed & memory efficiency
+- Implemented high-throughput **MPC** protocols for privacy-preserving DeFi, identity, and data collaboration use cases
+- Contributed to performance-critical cryptographic libraries and zk-friendly circuit designs
+
+Passionate about pushing the boundaries of **privacy**, **scalability**, and **trust-minimization** in Web3.
+
+Open to interesting R&D collaborations, protocol design challenges, and performance/security-critical projects.
